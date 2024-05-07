@@ -9,6 +9,7 @@ const DatingCards = () => {
     useEffect(() => {
         async function fetchData() {
             const req = await axios.get("/dating/cards")
+            console.log(req)
             setPeople(req.data)
         }
         fetchData()

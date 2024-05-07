@@ -1,7 +1,6 @@
 import express from 'express'
 import mongoose from 'mongoose'
 import Cors from 'cors'
-import Cards from './dbCards.js'
 
 //App Config
 const app = express()
@@ -19,6 +18,7 @@ mongoose.connect(connection_url, {
     useUnifiedTopology: true
 })
 
+import Cards from './dbCards.js'
 //API Endpoints
 app.get("/", (req, res) => res.status(200).send("Hello TheWebDev"))
 

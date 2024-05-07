@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: "https://dating-mern-backend.herokuapp.com"
+    baseURL: "https://mern-dating-app.onrender.com"
 })
 
 export default instance
