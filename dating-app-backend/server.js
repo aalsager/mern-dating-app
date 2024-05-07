@@ -1,7 +1,7 @@
 import express from 'express'
 import mongoose from 'mongoose'
 import Cors from 'cors'
-import Cards from './dating-mern-backend01/dbCards.js'
+import Cards from './dbCards.js'
 
 //App Config
 const app = express()
