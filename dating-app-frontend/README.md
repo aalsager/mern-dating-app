@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/25557902-beab31dc-df89-4337-821e-62b0e28a4681?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D25557902-beab31dc-df89-4337-821e-62b0e28a4681%26entityType%3Dcollection%26workspaceId%3D02770e3b-a857-47a1-b416-fdc4e2c855c2#?env%5Bmern-dating-app%5D=W3sia2V5IjoidXJsIiwidmFsdWUiOiJodHRwczovL21lcm4tZGF0aW5nLWFwcC5vbnJlbmRlci5jb20iLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODAwMSIsInNlc3Npb25JbmRleCI6MH1d)
